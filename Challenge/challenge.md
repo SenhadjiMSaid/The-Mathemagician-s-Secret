@@ -19,7 +19,7 @@ Inside `spellbook.txt`, you will find **a list of encrypted numbers**.
 The Mathemagician used a **linear transformation** to disguise the original text:
 
 $$
-ax + by ≡ c1 \pmod{2^{64}} \\
+ax + by ≡ c1 \pmod{2^{64}}  \\
 cx + dy ≡ c2 \pmod{2^{64}}
 $$
 
@@ -32,7 +32,7 @@ Can you **discover the hidden equations** and solve for $x$ and $y$?
 
 ## 💡 Hints
 
-1️⃣ The Mathemagician has left behind a hidden clue in the ancient scrolls… but it’s not so obvious. Instead of directly revealing a, b, c, and d, he encoded them in a mysterious pattern: [hint.txt](Challenge\hint.txt.txt)
+1️⃣ The Mathemagician has left behind a hidden clue in the ancient scrolls… but it’s not so obvious. Instead of directly revealing a, b, c, and d, he encoded them in a mysterious pattern: [hint.txt](Challenge\hint.txt.txt). <br>
 2️⃣ Before encryption, the flag was split into 4-character chunks and then transformed using a linear system of equations.
 
 ## 🚀 Goal
