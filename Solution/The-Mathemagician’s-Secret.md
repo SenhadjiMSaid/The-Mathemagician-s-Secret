@@ -123,3 +123,7 @@ Alphabit{linear_equations_are_more_important_then_u_think}
 - Linear transformations can obscure text but are reversible with math.
 - Recognizing patterns in encoded values helps break cryptosystems.
 - Breaking ciphers requires both cryptographic and mathematical thinking.
+
+## Conclusion
+
+**"The Mathemagician’s Secret"** was a **linear algebra** + **modular arithmetic** challenge requiring systems of equations to be solved under a modulus. By identifying patterns, computing modular inverses, and reversing the transformation.
